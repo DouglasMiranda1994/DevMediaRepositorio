@@ -1,0 +1,23 @@
+/*para instalar o plug-in de utilizar input, vá ate´o prompt de comando
+e digite o comando : npm init -y.
+depois npm install readline-sync
+na pasta abra o arquivo package.json e acrescente //"type": "module", assim:
+
+{
+  "name": "conversor_milhas",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}*/
+
